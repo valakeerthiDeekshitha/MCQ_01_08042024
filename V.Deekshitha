@@ -1,0 +1,36 @@
+
+1) Which of these class is superclass of every class in Java?
+a) String class
+b) Object class
+c) Abstract class
+d) ArrayList class 
+option :b 
+2)Which keyword is used to create a new instance of a class?
+a) new
+b) this
+c) instance
+d) object
+option : a
+3)Which keyword is used to refer to the current instance of an object within a class?
+a) object
+b) this
+c) self
+d) class
+option : b
+4) Which of the following is a valid declaration of an object of class Box?
+a) Box obj = new Box();
+b) Box obj = new Box;
+c) obj = new Box();
+d) new Box obj;
+option : a
+5) What is the stored in the object obj in following lines of Java code?
+
+  box obj;
+
+a) Memory address of allocated memory of object
+b) NULL
+c) Any arbitrary pointer
+d) Garbage
+option :b
+
+
